@@ -10,52 +10,47 @@ If you're a beginner looking for clean, simple, well-structured project examples
 
 ### 🧮 Calculator
 A simple calculator app covering basic arithmetic operations, DOM manipulation, and event handling.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/React-Calculator
+- 🌐 Live Demo: https://react-calculator-omega-navy.vercel.app/
 
 ### ✅ To-Do List App
 Task manager with add / delete / mark-as-complete functionality and local storage persistence.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/todo-list-app
 
 ### ⌨️ Speed Typing Test
 A typing speed test app that measures WPM and accuracy in real time.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo:https://github.com/anoopcodehack/TypingSpeedPro
 
 ### 🚦 Smart Traffic Simulator
 A simulation project modeling traffic flow / signal logic — a step up from typical beginner apps into simple systems/algorithmic thinking.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/smart-traffic-simulator
 
 ### 🎯 Focus Task
 A productivity/focus timer app to help track and manage deep work sessions.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/focus-tasks
+- 🌐 Live Demo: https://focus-tasks-beta.vercel.app/
 
 ### 💰 Expense Tracker
 Tracks income/expenses with add/delete entries and running balance calculation.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/expense-tracker-react
 
 ### 🎹 Piano
 A playable virtual piano using JS audio handling and keyboard/mouse events.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/Keystra
 
 ### 🐙 GitHub for Beginners
 A guide/mini-project walking through Git & GitHub basics — commits, branches, PRs — for those just starting out.
-- 🔗 Repo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/github-for-beginners
 
 ### ☁️ Weather App
 Fetches live weather data using a public weather API based on city/location search.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/weather
+- 🌐 Live Demo: https://weather-rust-zeta.vercel.app/
 
 ### 🌐 Portfolio
 My personal developer portfolio site — showcasing projects, skills, and contact info.
-- 🔗 Repo: [link]
-- 🌐 Live Demo: [link]
+- 🔗 Repo: https://github.com/anoopcodehack/Portfolio
+- 🌐 Live Demo: https://portfolio-one-hazel-73.vercel.app/
 
 ---
 
